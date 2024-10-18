@@ -4,7 +4,10 @@
   }
   
 img {
-    width: 98%;
+    width: 100%;
     border: 5px solid blue;
     padding: 5px;
+  }
+  * {
+    box-sizing: border-box;
   }
